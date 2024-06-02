@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/almanfarroz" target="_blank">
+  <a href="www.linkedin.com/in/alman-farroz" target="_blank">
     <img align="center" src="https://github.com/almanfarroz/almanfarroz/assets/104920113/fdd9e426-adc7-4070-bb1c-aff74d95d0b6" alt="LinkedIn" height="40" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://instagram.com/almanfarroz" target="_blank">
