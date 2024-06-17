@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=almanfarroz&label=Profile%20views&color=0e75b6&style=flat" alt="almanfarroz" />
 </p>
 
-- 🌱 I'm currently learning **Laravel and Data Analyst Environment**
+- 🌱 I'm currently learning **React, Laravel and Data Analyst Environment**
 - 💬 Ask me about **Laravel**
 - 📫 How to reach me **alman.farroz@gmail.com**
 - ⚡ Fun fact **Love to learn new things!**
